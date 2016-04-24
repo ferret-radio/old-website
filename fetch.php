@@ -35,6 +35,13 @@
 
                     $limit--;
                     echo("<p style='border-bottom: 1px solid #e1e1e1'>");
+                    
+                    if(isset($comments[$i]['timestamp']))
+                    {
+                        // Since this is being added and comments are already in the live comments.json, check if it is-set
+                        echo("<em>".date("h:i", $comments[$i]['timestamp'])."</em> - ");
+                    }
+                    
                     if($comments[$i]['name'] != "")
                     {
                         echo("<em><strong>".$comments[$i]['name']."</strong></em> : ");

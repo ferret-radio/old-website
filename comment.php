@@ -24,6 +24,7 @@
 
                 $comments["$id"]['name'] = $name;
                 $comments["$id"]['message'] = $message;
+                $comments["$id"]['timestamp'] = time();
 
                 $file = fopen("comments.json", "w");
                 fwrite($file, json_encode($comments));
@@ -33,6 +34,7 @@
             {
                 $comments["0"]['name'] = $name;
                 $comments["0"]['message'] = $message;
+                $comments["0"]['timestamp'] = time();
 
                 $file = fopen("comments.json", "w");
                 fwrite($file, json_encode($comments));
