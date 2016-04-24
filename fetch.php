@@ -1,4 +1,18 @@
 <?php
+    session_name("ferretradio_cookie");
+    if(!isset($_SESSION))
+    {
+        session_start();
+    }
+    if($_SESSION['timezone'] != "")
+    {
+        date_default_timezone_set($_SESSION['timezone']);
+    }
+    else
+    {
+        date_default_timezone_set("Europe/London");
+    }
+    
     // This script will simpy fetch and parse our JSON feed
     $feed['json'] = file_get_contents('https://control.internet-radio.com:2199/recentfeed/ferret/json/');
     $feed['parsed'] = json_decode($feed['json'], true);
