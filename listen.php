@@ -4,15 +4,7 @@
     {
         session_start();
     }
-    if(isset($_SESSION['timezone']) AND $_SESSION['timezone'] != "")
-    {
-        date_default_timezone_set($_SESSION['timezone']);
-    }
-    else
-    {
-        date_default_timezone_set("Europe/London");
-    }
-            
+    
 	if(!file_exists("comments.json"))
 	{
 		$file = fopen("comments.json", "w");
@@ -190,15 +182,16 @@
 										});
 									}
 								}
-								
+                                
 								function UpdateTimezone()
 								{
-									var timezone = $("#session-timezone").val();
-									$.post('session.php?set=timezone', { tz: timezone}).done(function(data)
-									{
-										$('#session-timezoneset').val('Timezone Set');
-									}
+                                    var timezone = $('#session-timezone').val();
+                                    $.post('session.php?set=timezone', { tz: timezone }).done(function(data)
+                                    {
+                                        $('#session-timezonetitle').text("Updated Timezone");
+                                    });
 								}
+								
 
 								// This configures the interval to recheck for a new list
 								// I recommend using 180000 for this so your host doesn't complain, but set to 3000 so you can see it working
@@ -236,7 +229,7 @@
 						
 						<br/>
 						
-						<p>Set Timezone:</p>
+						<div id="session-timezonetitle">Set Timezone:</div>
 						
 						<select style="width: 300px;color:#000000;" id="session-timezone" name="timezone">
 							<option value="Pacific/Midway">(GMT-11:00) Midway Island </option>

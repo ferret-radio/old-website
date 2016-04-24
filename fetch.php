@@ -4,7 +4,8 @@
     {
         session_start();
     }
-    if(isset($_SESSION['timezone']) AND $_SESSION['timezone'] != "")
+    
+    if(isset($_SESSION['timezone']))
     {
         date_default_timezone_set($_SESSION['timezone']);
     }

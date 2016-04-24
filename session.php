@@ -4,7 +4,7 @@
     {
         session_start();
     }
-    
+
     // Setting local timezone
     if(isset($_GET['set']) AND $_GET['set'] == "timezone")
     {
