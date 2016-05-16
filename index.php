@@ -76,9 +76,16 @@
                     <center>Welcome to Ferret Radio<br/>Bringing you the best "not terrible" music<br/><br/></center>
                     <div style="float:left; width:50%;">
                         About us<br/>
-                        We are a 24/7 nonprofit, independent internet radio that is dedicated to playing subjectively the best music that can be found.<br/>A wide variety of genres are explored by our DJs, so get to know their styles and see what suits you most!.<br/><br/>
-                        As of right now there is no specific schedule which we follow, but our DJs will send out a ping in our <a href="http://discord.me/ferret" target="_blank">Discord</a> when they begin streaming. Come in and have a chat!<br/><br/>
-                        Keep up to date by reading our <a href="http://news.ferretradio.com/" target="_blank">news</a> so if something breaks, the station dies or we add something fancy you'll know exactly what happens!
+                        We are a 24/7 nonprofit, independent internet radio that is dedicated to playing subjectively the best music that can be found.<br/>A wide variety of genres are explored by our DJs, so get to know their styles and see what suits you most!.<br/>
+                        As of right now there is no specific schedule which we follow, but our DJs will send out a ping in our <a href="http://discord.me/ferret" target="_blank">Discord</a> when they begin streaming. Come in and have a chat!<br/>
+                        Keep up to date by reading our <a href="http://news.ferretradio.com/" target="_blank">news</a> so if something breaks, the station dies or we add something fancy you'll know exactly what happens!<br/><br/>
+                        
+                        Upcoming stuff:<br/>
+                        20th May - Chalk's stream<br/>
+                        Date TBD - <a href="http://news.ferretradio.com/" target="_blank">News</a> will be hosted elsewhere.<br/>
+                        <br/>
+                        Changelog:<br/>
+                        16/05/2016 - Added this changelog. 
                     </div>
                     <div style="float:right; width:50%; ">
                         <img src="img/shrine.jpg"/>
@@ -102,6 +109,18 @@
     <script src="js/plugins/morris/raphael.min.js"></script>
     <script src="js/plugins/morris/morris.min.js"></script>
     <script src="js/plugins/morris/morris-data.js"></script>
+
+    <!-- Google Shizz -->
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-77827411-1', 'auto');
+        ga('send', 'pageview');
+
+    </script>
 
 </body>
 

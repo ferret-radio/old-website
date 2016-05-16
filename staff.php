@@ -82,7 +82,6 @@
                     <div style="float:right; width:50%; ">
                         Helpers<br/><br/>
                         <img src="img/xeno.png"/>&nbsp;&nbsp;&nbsp;XenoWarrior // Server Admin / Speed Demon //<br/><br/>
-                        <img src="img/turrim.png"/>&nbsp;&nbsp;&nbsp;DeusTurrim // Music Finder / Circle-Ception //<br/><br/>
                     </div>
 
                     </div>
@@ -103,6 +102,18 @@
     <script src="js/plugins/morris/raphael.min.js"></script>
     <script src="js/plugins/morris/morris.min.js"></script>
     <script src="js/plugins/morris/morris-data.js"></script>
+
+    <!-- Google Shizz -->
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-77827411-1', 'auto');
+        ga('send', 'pageview');
+
+    </script>
 
 </body>
 
