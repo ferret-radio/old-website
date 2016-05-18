@@ -76,12 +76,12 @@
                     <center>The wonderful people that make this work<br/>Want to help out? Join our <a href="http://discord.me/ferret">Discord</a> and speak to us!</center><br/><br/>
                     <div style="float:left; width:50%;">
                         DJs<br/><br/>
-                        <img src="img/chalk.png"/>&nbsp;&nbsp;&nbsp;Chalk // Founder / Tokubetsu Kōgekitai //<br/><br/>
-                        <img src="img/noz.png"/>&nbsp;&nbsp;&nbsp;Nozomi // Founder / USSR Aviator //<br/><br/>
+                        <img src="img/chalk.png"/>&nbsp;&nbsp;&nbsp;<a href="http://chalk.is-really.moe/">Chalk</a> // Founder / Tokubetsu Kōgekitai //<br/><br/>
+                        <img src="img/noz.png"/>&nbsp;&nbsp;&nbsp;<a href="http://nozomi.is-really.moe/">Nozomi</a> // Founder / USSR Aviator //<br/><br/>
                     </div>
                     <div style="float:right; width:50%; ">
                         Helpers<br/><br/>
-                        <img src="img/xeno.png"/>&nbsp;&nbsp;&nbsp;XenoWarrior // Server Admin / Speed Demon //<br/><br/>
+                        <img src="img/xeno.png"/>&nbsp;&nbsp;&nbsp;<a href="https://projectge.com/">XenoWarrior</a> // Server Admin / Speed Demon //<br/><br/>
                     </div>
 
                     </div>
