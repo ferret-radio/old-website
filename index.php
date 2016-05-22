@@ -77,15 +77,13 @@
                     <div style="float:left; width:50%;">
                         About us<br/>
                         We are a 24/7 nonprofit, independent internet radio that is dedicated to playing subjectively the best music that can be found.<br/>A wide variety of genres are explored by our DJs, so get to know their styles and see what suits you most!.<br/>
-                        As of right now there is no specific schedule which we follow, but our DJs will send out a ping in our <a href="http://discord.me/ferret" target="_blank">Discord</a> when they begin streaming. Come in and have a chat!<br/>
+                        As of right now there is no specific schedule which we follow (Except Chalk, who streams every Friday), but our DJs will send out a ping in our <a href="http://discord.me/ferret" target="_blank">Discord</a> when they begin streaming. Come in and have a chat!<br/>
                         Keep up to date by reading our <a href="http://news.ferretradio.com/" target="_blank">news</a> so if something breaks, the station dies or we add something fancy you'll know exactly what happens!<br/><br/>
                         
-                        Upcoming stuff:<br/>
-                        20th May - Chalk's stream<br/>
-                        Date TBD - <a href="http://news.ferretradio.com/" target="_blank">News</a> will be hosted elsewhere.<br/>
+                        Upcoming:<br/>
+                        Every Friday - Chalk's stream (6pm CST)<br/>
+                        TBA - <a href="http://news.ferretradio.com/" target="_blank">News</a> will be moved to a special place.<br/>
                         <br/>
-                        Changelog:<br/>
-                        16/05/2016 - Added this changelog. 
                     </div>
                     <div style="float:right; width:50%; ">
                         <img src="img/shrine.jpg"/>
