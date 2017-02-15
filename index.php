@@ -82,7 +82,6 @@
                         
                         Upcoming:<br/>
                         Every Friday - Chalk's stream (6pm CST)<br/>
-                        TBA - <a href="http://news.ferretradio.com/" target="_blank">News</a> will be moved to a special place.<br/>
                         <br/>
                     </div>
                     <div style="float:right; width:50%; ">
