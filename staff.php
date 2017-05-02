@@ -43,10 +43,10 @@
             </div>
             <ul class="nav navbar-right top-nav">
                 <li>
-                    <a href="http://news.ferretradio.com/" target="_blank">News</a>
+                    <a href="http://news.ferretradio.co.uk/" target="_blank">News</a>
                 </li>
                 <li>
-                    <a href="http://discord.me/ferret" target="_blank">Discord</a>
+                    <a href="https://discord.gg/EMR5Jg2" target="_blank">Discord</a>
                 </li>
             </ul>
                 </li>
@@ -73,11 +73,12 @@
 
             <div class="container-fluid"><br/><br/>
                 <font color="#fff">
-                    <center>The wonderful people that make this work<br/>Want to help out? Join our <a href="http://discord.me/ferret">Discord</a> and speak to us!</center><br/><br/>
+                    <center>The wonderful people that make this work<br/>Want to help out? Join our <a href="https://discord.gg/EMR5Jg2">Discord</a> and speak to us!</center><br/><br/>
                     <div style="float:left; width:50%;">
                         DJs<br/><br/>
-                        <img src="img/noz.png"/>&nbsp;&nbsp;&nbsp;<a href="http://chalk.moe/noz" target="_blank">Nozomi</a> // Founder / USSR Aviator //<br/><br/>
-                        <img src="img/chalk.png"/>&nbsp;&nbsp;&nbsp;<a href="http://chalk.moe/" target="_blank">Chalk</a> // Founder / Tokubetsu Kōgekitai //<br/><br/>
+                        <img src="img/uniiko.png"/>&nbsp;&nbsp;&nbsp;<a href="http://chalk.moe/noz" target="_blank">UNIIKO</a> // Founder / USSR Aviator //<br/><br/>
+                        <img src="img/okiinu.png"/>&nbsp;&nbsp;&nbsp;<a href="http://chalk.moe/" target="_blank">OKIINU</a> // Founder / Tokubetsu Kōgekitai //<br/><br/>
+                        <img src="img/alex.png"/>&nbsp;&nbsp;&nbsp;<a href="https://new.ppy.sh/u/6714241" target="_blank">Alex</a> // Rotation DJ / Master Wordsmith //<br/><br/>
                     </div>
                     <div style="float:right; width:50%; ">
                         Helpers<br/><br/>

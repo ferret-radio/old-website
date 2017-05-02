@@ -43,10 +43,10 @@
             </div>
             <ul class="nav navbar-right top-nav">
                 <li>
-                    <a href="http://news.ferretradio.com/" target="_blank">News</a>
+                    <a href="http://news.ferretradio.co.uk/" target="_blank">News</a>
                 </li>
                 <li>
-                    <a href="http://discord.me/ferret" target="_blank">Discord</a>
+                    <a href="https://discord.gg/EMR5Jg2" target="_blank">Discord</a>
                 </li>
             </ul>
                 </li>
@@ -73,15 +73,14 @@
 
             <div class="container-fluid"><br/><br/>
                 <font color="#fff">
-                    <center>Welcome to Ferret Radio<br/>Bringing you the best "not terrible" music<br/><br/></center>
+                    <center><span style="color:#80e8ff;">W</span><span style="color:#7ee5fe;">e</span><span style="color:#7ce2fd;">l</span><span style="color:#7adffc;">c</span><span style="color:#78dcfc;">o</span><span style="color:#77dafb;">m</span><span style="color:#75d7fa;">e</span><span style="color:#73d4f9;"> </span><span style="color:#71d1f8;">t</span><span style="color:#6fcef7;">o</span><span style="color:#6dcbf7;"> </span><span style="color:#6bc8f6;">F</span><span style="color:#69c5f5;">e</span><span style="color:#67c2f4;">r</span><span style="color:#66c0f3;">r</span><span style="color:#64bdf2;">e</span><span style="color:#62baf2;">t</span><span style="color:#60b7f1;"> </span><span style="color:#5eb4f0;">R</span><span style="color:#60b7f1;">a</span><span style="color:#62baf2;">d</span><span style="color:#64bdf3;">i</span><span style="color:#66c0f3;">o</span><span style="color:#67c2f4;">'</span><span style="color:#69c5f5;">s</span><span style="color:#6bc8f6;"> </span><span style="color:#6dcbf7;">s</span><span style="color:#6fcef8;">e</span><span style="color:#71d1f8;">c</span><span style="color:#73d4f9;">o</span><span style="color:#75d7fa;">n</span><span style="color:#77dafb;">d</span><span style="color:#78dcfc;"> </span><span style="color:#7adffd;">y</span><span style="color:#7ce2fd;">e</span><span style="color:#7ee5fe;">a</span><span style="color:#80e8ff;">r</span><br/>Bringing you the best "not terrible" music<br/><br/></center>
                     <div style="float:left; width:50%;">
                         About us<br/>
                         We are a 24/7 nonprofit, independent internet radio that is dedicated to playing subjectively the best music that can be found.<br/>A wide variety of genres are explored by our DJs, so get to know their styles and see what suits you most!.<br/>
-                        As of right now there is no specific schedule which we follow (Except Chalk, who streams every Friday), but our DJs will send out a ping in our <a href="http://discord.me/ferret" target="_blank">Discord</a> when they begin streaming. Come in and have a chat!<br/>
-                        Keep up to date by reading our <a href="http://news.ferretradio.com/" target="_blank">news</a> so if something breaks, the station dies or we add something fancy you'll know exactly what happens!<br/><br/>
+                        As of right now there is no specific schedule which we follow, but our DJs will send out a ping in our <a href="https://discord.gg/EMR5Jg2" target="_blank">Discord</a> when they begin streaming. Come in and have a chat!<br/>
+                        Keep up to date by reading our <a href="http://news.ferretradio.co.uk/" target="_blank">news</a> so if something breaks, the station dies or we add something fancy you'll know exactly what happens!<br/><br/>
                         
-                        Upcoming:<br/>
-                        Every Friday - Chalk's stream (6pm CST)<br/>
+
                         <br/>
                     </div>
                     <div style="float:right; width:50%; ">

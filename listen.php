@@ -110,10 +110,10 @@
 				</div>
 				<ul class="nav navbar-right top-nav">
 					<li>
-						<a href="http://news.ferretradio.com/" target="_blank">News</a>
+						<a href="http://news.ferretradio.co.uk/" target="_blank">News</a>
 					</li>
 					<li>
-						<a href="http://discord.me/ferret" target="_blank">Discord</a>
+						<a href="https://discord.gg/EMR5Jg2" target="_blank">Discord</a>
 					</li>
 				</ul>
 
@@ -138,7 +138,7 @@
 								Listen to Ferret Radio here:<br/><br/>
 								<audio controls>
 									<!-- This should work -->
-									<source src="http://uk6.internet-radio.com:8302/live" type='audio/mp4'>
+									<source src="http://uk6.internet-radio.com:8498/live" type='audio/mp4'>
 									<!-- Why the fuck doesn't it work -->
 									<p>You are using a shit browser. Please use a real one.</p>
 								</audio>
@@ -150,9 +150,9 @@
 								<br/>
 								<div id="download-link">
 									Download links:<br/>
-									<a href="http://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://uk6.internet-radio.com:8302/live.m3u&t=.m3u">.m3u</a>&nbsp;
-									<a href="http://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://uk6.internet-radio.com:8302/live.m3u&t=.pls">.pls</a>&nbsp;
-									<a href="http://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://uk6.internet-radio.com:8302/live.m3u&t=.ram">.ram</a>&nbsp;
+									<a href="http://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://uk6.internet-radio.com:8498/live.m3u&t=.m3u">.m3u</a>&nbsp;
+									<a href="http://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://uk6.internet-radio.com:8498/live.m3u&t=.pls">.pls</a>&nbsp;
+									<a href="http://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://uk6.internet-radio.com:8498/live.m3u&t=.ram">.ram</a>&nbsp;
 								</div>
 								<br/>
 						</div>
