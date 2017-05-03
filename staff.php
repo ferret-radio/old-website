@@ -43,7 +43,7 @@
             </div>
             <ul class="nav navbar-right top-nav">
                 <li>
-                    <a href="http://news.ferretradio.co.uk/" target="_blank">News</a>
+                    <a href="http://twitter.com/ferretradio" target="_blank">News</a>
                 </li>
                 <li>
                     <a href="https://discord.gg/EMR5Jg2" target="_blank">Discord</a>

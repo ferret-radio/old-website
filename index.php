@@ -43,7 +43,7 @@
             </div>
             <ul class="nav navbar-right top-nav">
                 <li>
-                    <a href="http://news.ferretradio.co.uk/" target="_blank">News</a>
+                    <a href="http://twitter.com/ferretradio" target="_blank">News</a>
                 </li>
                 <li>
                     <a href="https://discord.gg/EMR5Jg2" target="_blank">Discord</a>
@@ -78,7 +78,7 @@
                         About us<br/>
                         We are a 24/7 nonprofit, independent internet radio that is dedicated to playing subjectively the best music that can be found.<br/>A wide variety of genres are explored by our DJs, so get to know their styles and see what suits you most!.<br/>
                         As of right now there is no specific schedule which we follow, but our DJs will send out a ping in our <a href="https://discord.gg/EMR5Jg2" target="_blank">Discord</a> when they begin streaming. Come in and have a chat!<br/>
-                        Keep up to date by reading our <a href="http://news.ferretradio.co.uk/" target="_blank">news</a> so if something breaks, the station dies or we add something fancy you'll know exactly what happens!<br/><br/>
+                        Keep up to date by reading our <a href="http://twitter.com/ferretradio" target="_blank">news</a> so if something breaks, the station dies or we add something fancy you'll know exactly what happens!<br/><br/>
                         
 
                         <br/>
