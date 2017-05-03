@@ -84,7 +84,7 @@
                         <br/>
                     </div>
                     <div style="float:right; width:50%; ">
-                        <img src="img/shrine.jpg"/>
+                        <img src="img/shrine.png"/>
                     </div>
 
 
