@@ -79,10 +79,11 @@
                         <img src="img/uniiko.png"/>&nbsp;&nbsp;&nbsp;<a href="http://chalk.moe/noz" target="_blank">UNIIKO</a> // Founder / USSR Aviator //<br/><br/>
                         <img src="img/okiinu.png"/>&nbsp;&nbsp;&nbsp;<a href="http://chalk.moe/" target="_blank">OKIINU</a> // Founder / Tokubetsu Kōgekitai //<br/><br/>
                         <img src="img/alex.png"/>&nbsp;&nbsp;&nbsp;<a href="https://new.ppy.sh/u/6714241" target="_blank">Alex</a> // Rotation DJ / Master Wordsmith //<br/><br/>
+                        <img src="img/mitatsh.png"/>&nbsp;&nbsp;&nbsp;<a href="https://new.ppy.sh/u/4165369" target="_blank">Mitatsh</a> // Rotation DJ / Singletapping since 1998 //<br/><br/>
                     </div>
                     <div style="float:right; width:50%; ">
                         Helpers<br/><br/>
-                        <img src="img/xeno.png"/>&nbsp;&nbsp;&nbsp;<a href="https://projectge.com/">XenoWarrior</a> // Server Admin / Speed Demon //<br/><br/>
+                        <img src="img/xeno.png"/>&nbsp;&nbsp;&nbsp;<a href="https://projectge.com/">XenoWarrior</a> // Back-end Developer / Speed Demon //<br/><br/>
                     </div>
 
                     </div>
